@@ -32,7 +32,8 @@ I give you a direction to have a look my repository. I wrote what information,fu
 > Project type :  A personal project
 > In charge of all  
 
-> This project is in progress.  
+> This project is in progress  
+   
  Recently, What i implemented :  
  + division team and color randomly for free game mode
  + simple Enemy tower Ai
