@@ -52,7 +52,7 @@ I give you a direction to have a look my repository. I wrote what information,fu
 > Project type : A team Project ( Team members : 5 game developers )  
 > In charge of : Player , Inventory ,Skills  
 
-> This repository contains humbly imitated game project (Wizard of Legend). Our Team has implemented various functions as  
+> This repository contains a humbly imitated game project (Wizard of Legend). Our Team has implemented various functions as  
 
 - maptool (auto fill in range tiles)
 - player movements and attack with angle
