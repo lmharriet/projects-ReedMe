@@ -35,9 +35,12 @@ I give you a direction to have a look my repository. I wrote what information,fu
 > This project is in progress  
    
  Recently, What i implemented :  
- + division team and color randomly for free game mode
+ + manage Scene 
+ + control tower by color
+ + implement towers functions by tower kinds
  + simple Enemy tower Ai
  + select a tower and drag to a target tower with mouse functions  
+ + particle effect for visual 
     
  Now i am on it :
 + how to manage all scenes for stages  
