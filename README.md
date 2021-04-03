@@ -26,26 +26,25 @@ I give you a direction to have a look my repository. I wrote what information,fu
 
 ---
 
-## :lock:Unity RTS- TowerDefense game 
+## :european_castle:Unity RTS- TowerDefense game 
 > Language : C#  
 > Tool : Unty  
 > Project type :  A personal project
 > In charge of all  
 
-> This project is in progress  
    
  Recently, What i implemented :  
- + manage Scene 
- + control tower by color
+ + manage Scenes easily through inspector with Enum class and boolean 
+ + control tower and teams by color
  + implement towers functions by tower kinds
- + simple Enemy tower Ai
+ + simple Enemy tower Ai (Get an idea from behaviour tree)
  + select a tower and drag to a target tower with mouse functions  
+ + use singleton class to save TowerData
+ + apply objectPool for optimization when create units
+ + use UGUI (slider , button, panel...)
  + particle effect for visual 
     
- Now i am on it :
-+ how to manage all scenes for stages  
-+ set teams for battle mode
-  
+
 + [Github](https://github.com/lmharriet/Unity-TowerDefense)  
 
 ---
